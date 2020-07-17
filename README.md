@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola, soy ✨Diego✨
+Aquí encontrarás mis proyectos personales y colaboraciones de código.
+Actualmente estoy trabajando en [wyag](www.github.com/Cronny) un git pequeñito que estoy implementando. 
+
+Te recomiendo una canción uwu
+<iframe src="https://open.spotify.com/embed/track/7eqoqGkKwgOaWNNHx90uEZ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <!--
 **Cronny/Cronny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
