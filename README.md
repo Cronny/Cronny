@@ -1,6 +1,6 @@
 ### Hola, soy ✨Diego✨
 Aquí encontrarás mis proyectos personales y colaboraciones de código.
-Actualmente estoy trabajando en [wyag](https://github.com/Cronny/wyag) un git pequeñito que estoy implementando. 
+Actualmente estoy trabajando en [wyag](https://github.com/Cronny/wyag) un git pequeñito.
 
 <!--
 **Cronny/Cronny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
